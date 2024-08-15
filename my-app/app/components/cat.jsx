@@ -9,6 +9,6 @@ export default cat;
 
 export default function cat()
     {
-        return <Text>Hello I am component 1</Text>
+        return <Text>Hello I am a cat</Text>
     }
     
