@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Text } from "react-native";
 /*const cat=()=>
 {
     return <Text>Hello I am component 2</Text>
@@ -7,7 +7,7 @@ import React from "react";
 export default cat;
 */
 
-export default function cat()
+export default function Cat()
     {
         return <Text>Hello I am a cat</Text>
     }
